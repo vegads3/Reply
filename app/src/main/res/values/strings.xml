@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">responder</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="navigation_rail">Navigation Rail</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="navigation_back">volver</string>
+    <string name="details_screen">Details Screen</string>
+    <string name="tab_inbox">Inbox</string>
+    <string name="tab_sent">enviar</string>
+    <string name="tab_drafts">Drafts</string>
+    <string name="tab_spam">Spam</string>
+    <string name="logo">Logo</string>
+
+    <string name="profile">Perfilk</string>
+    <string name="reply">Responder</string>
+    <string name="reply_all">Responder a todos</string>
+    <string name="continue_composing">Continuar escribiendo</string>
+    <string name="delete">eliminar</string>
+    <string name="move_to_inbox">Mover a la bandeja de entrada</string>
+
+    <string name="account_1_first_name">Jeff</string>
+    <string name="account_1_last_name">Hansen</string>
+    <string name="account_1_email">hikingfan@altostrat.com</string>
+
+    <string name="account_4_first_name">Tracy</string>
+    <string name="account_4_last_name">Alvarez</string>
+    <string name="account_4_email">tracealvie@altostrat.com</string>
+
+    <string name="account_5_first_name">Ali</string>
+    <string name="account_5_last_name">Trabucco</string>
+    <string name="account_5_email">atrabucco222@altostrat.com</string>
+    <string name="account_6_first_name">Mayte</string>
+    <string name="account_6_last_name">Connors</string>
+    <string name="account_6_email">aliconnors@altostrat.com</string>
+
+    <string name="account_7_first_name">Alberto</string>
+    <string name="account_7_last_name">Williams</string>
+    <string name="account_7_email">albertowilliams124@altostrat.com</string>
+
+    <string name="account_8_first_name">Kim</string>
+    <string name="account_8_last_name">Alen</string>
+    <string name="account_8_email">alen13@altostrat.com</string>
+
+    <string name="account_9_first_name">Uber eats</string>
+    <string name="account_9_last_name">Express</string>
+    <string name="account_9_email">express@altostrat.com</string>
+
+    <string name="account_10_first_name">Sandra</string>
+    <string name="account_10_last_name">Adams</string>
+    <string name="account_10_email">sandraadams@altostrat.com</string>
+
+    <string name="account_11_first_name">Daniel</string>
+    <string name="account_11_last_name">Hansen</string>
+    <string name="account_11_email">trevorhandsen@altostrat.com</string>
+
+    <string name="account_12_first_name">Aron</string>
+    <string name="account_12_last_name">Holt</string>
+    <string name="account_12_email">sholt@altostrat.com</string>
+
+    <string name="account_13_first_name">Francisco</string>
+    <string name="account_13_last_name">Hawkins</string>
+    <string name="account_13_email">fhawkank@altostrat.com</string>
+
+    <string name="email_0_subject">paquete enviado</string>
+    <string name="email_0_body">
+        tu paquete tiene una entrega estimada para el 14 de  noviembre
+    </string>
+    <string name="email_0_time">hace 20 minutos</string>
+
+    <string name="email_1_subject">almorzamos esta mañana?</string>
+    <string name="email_1_body">
+        estaba pensando en ir a comer a las carnitas, que dices?
+    </string>
+    <string name="email_1_time">hace 40 minutos</string>
+
+    <string name="email_2_subject">Adios de tlanepantla</string>
+    <string name="email_2_body">
+        fue un gusto conocerte en el viaje
+    </string>
+    <string name="email_2_time">hace 1 hora</string>
+
+    <string name="email_3_subject">viaje escolar?</string>
+    <string name="email_3_body">
+        La maestra me habia comentado que en unass semanas tenderemos un viaje escolar para ir a la sierra de tacubaya
+    </string>
+    <string name="email_3_time">hace 2 horas</string>
+
+    <string name="email_4_subject">Viaje a tacambaro</string>
+    <string name="email_4_body">
+         Dato Curioso Random de Tacámbaro
+
+Tacámbaro de Codallos, conocido como el "Balcón de Tierra Caliente", no solo es un Pueblo Mágico con paisajes impresionantes que van desde bosques fríos hasta selvas tropicales, sino que también tiene un par de datos bastante singulares:
+
+Capital por un rato: La ciudad fungió como capital de Michoacán en dos ocasiones (en 1865 y en 1915), en momentos clave de la historia de México.
+
+Origen del nombre: Su nombre, de origen purépecha, se interpreta como "Lugar de Palmeras" y proviene de la palabra tacamba, que es una especie de palma de izote.
+
+Cuna musical: Es la ciudad natal del compositor Marcos A. Jiménez, famoso por haber creado la canción "Adiós, Mariquita Linda".
+    </string>
+    <string name="email_4_time">hace 2 horas</string>
+
+    <string name="email_5_subject">Revisar mi calendario</string>
+    <string name="email_5_body" />
+    <string name="email_5_time">hace 2 horas</string>
+
+    <string name="email_6_subject">Receta de prueba</string>
+    <string name="email_6_body">
+        Pastel de vainilla, ingredientes: harina, huevo, vainilla, leche, azucar...
+    </string>
+    <string name="email_6_time">hace 2 horas</string>
+
+    <string name="email_7_subject">Repartidor</string>
+    <string name="email_7_body">
+        Tu paquete ha sido entregado, gracias por tu compra
+    </string>
+    <string name="email_7_time">hace 2 horas</string>
+
+    <string name="email_8_subject">La actualizacion de clash of clans esta disponible ahora
+    !!!</string>
+    <string name="email_8_body">
+        El nuevo pase de batalla de la temporada 4 capitulo 6 esta disponible ahora, consiguelo por un precio de $159
+    </string>
+    <string name="email_8_time">hace 3 horas</string>
+
+    <string name="email_9_subject">Borrador</string>
+    <string name="email_9_body">
+        Este email es para recordar que el viernes 24 de noviembre ...
+    </string>
+    <string name="email_9_time">hace 3 horas</string>
+
+    <string name="email_10_subject">spotify</string>
+    <string name="email_10_body">
+        Puedes obtener un mes gratis de spotify dando click a este enlace
+    </string>
+    <string name="email_10_time">hace 3 horas</string>
+
+    <string name="email_11_subject">BANAMEX</string>
+    <string name="email_11_body">
+        has sido seleccionado para un prestamo de 20,000
+    </string>
+    <string name="email_11_time">3 hours ago</string>
+
+</resources>
